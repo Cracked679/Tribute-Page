@@ -39,7 +39,6 @@ jQuery(document).ready(function ($) {
         timelineComponents,
         eventsMinDistance
       );
-      console.log("timelineTotWidth :" + timelineTotWidth);
 
       //the timeline has been initialize - show it
       timeline.addClass("loaded");
@@ -224,8 +223,6 @@ jQuery(document).ready(function ($) {
       timelineComponents["timelineEvents"]
         .eq(i)
         .css("left", distanceNorm * min + "px");
-
-      console.log("distance: " + distance);
     }
   }
 
