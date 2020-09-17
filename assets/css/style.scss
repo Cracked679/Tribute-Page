@@ -310,7 +310,6 @@ li {
   //   width: 100%;
   //   margin: 2em 0;
   //   overflow: hidden;
-
   transition: height 0.4s;
 }
 
@@ -463,4 +462,18 @@ li {
 #footer p,
 h6 {
   color: black;
+}
+
+@media only screen and (max-width:540px) {
+
+  li .row img {
+    height: 50%;
+  }
+
+  li .w-100,
+  li .d-block {
+    width: 50% !important;
+    display: unset !important;
+  }
+
 }
