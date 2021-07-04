@@ -10,7 +10,7 @@ Fully responsive Tribute Page designed and hand-coded by me.
   - html5, js, css3, freecodecamp, self-learning, responsive-web-design
 
 ### Preview
-![alt text](img/rec-min.gif "GIF Image")
+![alt text](assets/img/rec-min.gif "GIF Image")
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
